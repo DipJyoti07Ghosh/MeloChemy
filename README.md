@@ -34,7 +34,7 @@ Nexus Mavericks' MeloChemy is a cutting-edge digital platform that uses AI and m
 
 <p align="center">
 
-## 🌟 **Mind Flow** 🌟
+## 🧠 **Mind Flow** 🧠
 
 </p>
 
