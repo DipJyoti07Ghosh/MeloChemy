@@ -1,4 +1,4 @@
-<h1 align="center">🚀 OUR WEBSITE — <i><b>MeloChemy<b></i> 🚀</h1>
+<h1 align="center">🚀 OUR WEBSITE — <i>MeloChemy</i> 🚀</h1>
 
 <hr>
 
