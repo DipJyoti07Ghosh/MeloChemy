@@ -18,7 +18,7 @@ Nexus Mavericks' MeloChemy is a cutting-edge digital platform that uses AI and m
 
 <p align="center">
 
-## 🌟 **Our Experts** 🌟
+## 👨‍💻 **Our Experts** 👨‍💻
 
 </p>
 
@@ -26,7 +26,7 @@ Nexus Mavericks' MeloChemy is a cutting-edge digital platform that uses AI and m
 
 <p align="center">
 
-## 🌟 **Music Album** 🌟
+## 🎼 **Music Album** 🎼
 
 </p>
 
@@ -50,7 +50,7 @@ Nexus Mavericks' MeloChemy is a cutting-edge digital platform that uses AI and m
 
 <p align="center">
 
-## 🌟 **Contact Us** 🌟
+## 📞 **Contact Us** 📞
 
 </p>
 
